@@ -5,7 +5,7 @@ http://88.212.7.10/live/test_ct1_25p/playlist.m3u8
 http://88.212.7.10/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CT24(src01).cz" tvg-url="ct24.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct24hd.png" group-title="Zpravodajské / News",ČT24 HD
 http://88.212.7.10/live/test_ct24_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="CTsport(src01).cz" tvg-url="ctsport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ctsporthd.png" group-title="Sportovní / Sport",ČT sport HD (Stanice vysílající olympiádu)
+#EXTINF:-1 tvg-id="CTsport(src01).cz" tvg-url="ctsport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ctsporthd.png" group-title="Sportovní / Sport",ČT sport HD (Stanice vysílající olympiádu - vysíláno i na ČT sportech Plus v iVysílání)
 http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="NovaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova HD
 http://88.212.7.10/live/nova_avc_25p/playlist.m3u8
