@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://m3u4u.com/xml/5z3endx9xjadzzjdnqpk"
+#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="",INFOKANÁL
+https://github.com/znelkytv/Icons/raw/main/Infokanal.mp4
 #EXTINF:-1 tvg-id="CT1(src01).cz" tvg-url="ct1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct1hd.png" group-title="Všeobecné",ČT1 HD
 http://88.212.7.10/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CT2(src01).cz" tvg-url="ct2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct2hd.png" group-title="Všeobecné",ČT2 HD
