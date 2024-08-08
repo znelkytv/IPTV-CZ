@@ -9,7 +9,7 @@ http://88.212.7.10/live/test_ct2_25p/playlist.m3u8
 http://88.212.7.10/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="CTsport(src01).cz" tvg-url="ctsport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ctsporthd.png" group-title="Sportovní / Sport",ČT sport HD (Stanice vysílající olympiádu - vysíláno i na ČT sportech Plus v iVysílání)
 http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="NovaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova HD
+#EXTINF:-1 tvg-id="NovaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/nova24.png" group-title="Všeobecné",Nova HD
 http://88.212.7.10/live/nova_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="NovaCinema(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinema.png" group-title="Filmy a seriály / Movies and serials",Nova Cinema HD
 http://88.212.7.10/live/nova_cinema_avc_25p/playlist.m3u8
