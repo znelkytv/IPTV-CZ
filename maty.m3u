@@ -41,9 +41,9 @@ http://88.212.15.36/live/test_cnn_pirma_news/playlist.m3u8
 https://live.cdn.joj.sk/live/andromeda/family-1080.m3u8
 #EXTINF:-1 tvg-id="TVBarrandov(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvbarrandov.png" group-title="Všeobecné",TV Barrandov HD
 http://88.212.15.36/live/test_barrandov/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/eurosport1.png" group-title="Sportovní / Sport",Eurosport 1 HD (Stanice vysílající olympiádu)
+#EXTINF:-1 tvg-id="Eurosport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/eurosport1.png" group-title="Sportovní / Sport",Eurosport 1 HD
 http://88.212.15.36/live/eurosport_1_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/eurosport2.png" group-title="Sportovní / Sport",Eurosport 2 HD (Stanice vysílající olympiádu)
+#EXTINF:-1 tvg-id="Eurosport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/eurosport2.png" group-title="Sportovní / Sport",Eurosport 2 HD
 http://88.212.15.36/live/eurosport_2_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="NICKJRTHOR(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nickjr.png" group-title="Rozka",Nick Jr.
 http://88.212.15.36/live/test_nick_jr/playlist.m3u8
