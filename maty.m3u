@@ -20,7 +20,7 @@ http://88.212.15.36/live/nova_fun_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="NOVAGold(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novagold.png" group-title="",Nova Gold HD
 http://88.212.15.36/live/nova_gold_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="NovaSport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/novasport1.png" group-title="Sportovní / Sport",Nova Sport 1 HD 🔊
-http://78.130.250.2:8023/play/a009/index.m3u8
+http://88.212.15.36/live/test_ns1_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="NovaSport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novasport2.png" group-title="Sportovní / Sport",Nova Sport 2 HD 🔊
 http://78.130.250.2:8023/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="NovaSport3(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/novasport3.png" group-title="Sportovní / Sport",Nova Sport 3 HD 🔊
